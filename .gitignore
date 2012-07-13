@@ -1,0 +1,5 @@
+# All Asset files #
+assets/*
+
+# All Runtime files #
+protected/runtime/*
